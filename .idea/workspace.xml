@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ddc3da5-a917-4ad0-95fd-2321fdb5af8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Even_Odd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5ddc3da5-a917-4ad0-95fd-2321fdb5af8f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +45,15 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Even_Odd.executor": "Run",
     "Python.Hello_World.executor": "Run",
+    "Python.Largest_from_3_numbers.executor": "Run",
+    "Python.Largest_number.executor": "Run",
+    "Python.Leap_year.executor": "Run",
+    "Python.Positive_negative.executor": "Run",
+    "Python.divisible_number.executor": "Run",
+    "Python.rectangle_area.executor": "Run",
+    "Python.simple_intrest.executor": "Run",
+    "Python.temprature_conversion.executor": "Run",
+    "Python.vowel_consonent.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
