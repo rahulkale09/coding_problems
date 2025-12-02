@@ -7,5 +7,7 @@ def reverse_number():
         rev = rev * 10 + digit
         num = num // 10
     print("Reversed Number:", rev)
+    return rev
+    
 
 reverse_number()
